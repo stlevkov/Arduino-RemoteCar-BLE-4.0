@@ -157,19 +157,15 @@ void setup() {
   // Servo settings
   servo.attach(servo_pin);
 
-//  Serial.println("Testing Motor");
-//  for (int i = 0; i < 1000; i++) {
-//    motor1.drive(255, 1000);                    // drive(), but with a drive(drive, duration)
-//    Serial.println("MOTOR GO FORD");
-//  }
+  //  Serial.println("Testing Motor");
+  //  for (int i = 0; i < 1000; i++) {
+  //    motor1.drive(255, 1000);                    // drive(), but with a drive(drive, duration)
+  //    Serial.println("MOTOR GO FORD");
+  //  }
 
 }
 
 void loop() {
-
-
-
-
   while (BTSerial.available()) {
     character = BTSerial.read();
     packet = character;
@@ -222,6 +218,9 @@ void loop() {
           sval = map(servoVal, 470, 0, 110, 40);
           Serial.println(sval);
           servo.write(sval);
+        } else {
+          Serial.println(sval);
+          servo.write(110);
         }
 
         if (frontLights.toInt() == 1) {
