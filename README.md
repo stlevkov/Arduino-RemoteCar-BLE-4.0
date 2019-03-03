@@ -20,12 +20,13 @@ Arduino controlled remote car using BLUETOOTH Transiever HM-10
 ![Rover Diagram](https://github.com/stlevkov/Arduino-RemoteCar-2.4GHz/blob/master/Resources/Joystick/JOYSTICK-RF24l01-SCHEMATIC_bb.png)
 
 # Communication protocol:
-<h3>packageLen;xAxis;yAxis;frontLights;stopLights;</h3>
+<h3>packageLen;xAxis;yAxis;frontLights;stopLights;stopChar</h3>
 
 <ol>
 	<li>packageLen  = size Of (data packets)</li>
-	<li>xAxis       = 0 - 255</li>
-	<li>yAxis       = 0 - 255</li>
-	<li>frontLights = 0 - 1</li>
-	<li>stopLights  = 0 - 1</li>
+	<li>xAxis       = 0 - 255               </li>
+	<li>yAxis       = 0 - 255               </li>
+	<li>frontLights = 0 - 1                 </li>
+	<li>stopLights  = 0 - 1                 </li>
+	<li>stopChar    = S                     </li>
 </ol>
