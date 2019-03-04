@@ -19,7 +19,7 @@ Hardware used in this project:
 <h1>Joystick side</h1>
 <ol>
   <li>Arduino UNO R3</li>
-  <li>Joystick Shield R2012</li>
+  <li>Joystick Shield V1.A Funduino</li>
   <li>Bluetooth 4.0 BLE Transiever HM-10</li>
 </ol>
 
