@@ -5,7 +5,7 @@ Hardware used in this project:
 <h1>Rover side</h1>
 <ol>
   <li>Arduino Leonardo</li>
-  <li>BLUETOOTH BLE Transiever HM-10</li>
+  <li>Bluetooth 4.0 BLE Transiever HM-10</li>
   <li>Mini servo motor (blue)</li>
   <li>4x normal RED LED</li>
   <li>2x 1W warm WHITE LED</li>
@@ -20,7 +20,7 @@ Hardware used in this project:
 <ol>
   <li>Arduino UNO R3</li>
   <li>Joystick Shield R2012</li>
-  <li>BLUETOOTH BLE Transiever HM-10</li>
+  <li>Bluetooth 4.0 BLE Transiever HM-10</li>
 </ol>
 
 # Schematic diagrams
