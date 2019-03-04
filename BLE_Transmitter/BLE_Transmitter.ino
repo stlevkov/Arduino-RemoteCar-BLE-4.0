@@ -1,4 +1,4 @@
-// !!! IMPORTANT !!!
+ // !!! IMPORTANT !!!
 /* To make a connection we:
     Set the second module to Peripheral mode (the default setting),
     In order to be able for connect, the transmitter needs the following commands first:
