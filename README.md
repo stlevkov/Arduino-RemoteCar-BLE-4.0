@@ -12,7 +12,7 @@ Arduino controlled remote car using BLUETOOTH Transiever HM-10
 
 <h2>Rover Diagram</h2>
 
-![Rover Diagram](https://github.com/stlevkov/Arduino-RemoteCar-2.4GHz/blob/master/Resources/Rover/ROVER-BLE-SCHEMATIC_bb.png) 
+![Rover Diagram](https://github.com/stlevkov/Arduino-RemoteCar-BLE-4.0/blob/master/Resources/Rover/ROVER-BLE-SCHEMATIC_bb.png) 
 
 
 <h2>Joystick Diagram</h2>
