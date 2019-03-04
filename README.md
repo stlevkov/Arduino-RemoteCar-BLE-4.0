@@ -1,7 +1,7 @@
-# Arduino-RemoteCar-BLE-4.0
-Arduino controlled remote car using BLUETOOTH Transiever HM-10
+# Arduino RemoteCar BLE 4.0
+Arduino controlled remote car using Bluetooth 4.0 BLE Transiever module HM-10
 
-# Hardware used in this project:
+Hardware used in this project:
 <h1>Rover side</h1>
 <ol>
   <li>Arduino Leonardo</li>
