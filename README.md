@@ -13,7 +13,7 @@ Hardware used in this project:
   <li>microUSB charger board TP4056 (without protection)</li>
   <li>Small motor 12V</li>
   <li>7x AA Batteries</li>
-  <li>18650 3000mAh RED</li>		
+  <li>18650 3000mAh Battery</li>		
 </ol>
 
 <h1>Joystick side</h1>
